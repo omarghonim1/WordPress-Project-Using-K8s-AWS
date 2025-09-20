@@ -28,6 +28,11 @@ Installed AWS CSI Drivers:
 
 - Attached the IAM Role to the EC2 instances to allow pods to interact with AWS services securely.
 
+<img width="1682" height="121" alt="Screenshot 2025-09-20 at 2 12 06 PM (2)" src="https://github.com/user-attachments/assets/d20d7906-d665-408c-8a1d-e66b11da5928" />
+
+<img width="1824" height="555" alt="Screenshot 2025-09-20 at 2 12 43 PM (2)" src="https://github.com/user-attachments/assets/94d59315-5f90-4339-a25e-43ff0a78a38d" />
+
+<img width="1797" height="354" alt="Screenshot 2025-09-20 at 2 13 27 PM (2)" src="https://github.com/user-attachments/assets/f0c32325-7c8e-4b9d-9980-dc14d82443cc" />
 
 
 Project Architecture
