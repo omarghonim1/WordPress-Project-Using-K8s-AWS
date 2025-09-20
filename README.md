@@ -34,6 +34,8 @@ Installed AWS CSI Drivers:
 
 <img width="1797" height="354" alt="Screenshot 2025-09-20 at 2 13 27 PM (2)" src="https://github.com/user-attachments/assets/f0c32325-7c8e-4b9d-9980-dc14d82443cc" />
 
+<img width="1893" height="687" alt="Screenshot 2025-09-20 at 1 42 39 PM (2)" src="https://github.com/user-attachments/assets/f73e1ff2-8d3d-4227-896d-aeeaa0c5b863" />
+
 
 Project Architecture
 
