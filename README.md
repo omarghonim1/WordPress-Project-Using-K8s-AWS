@@ -22,8 +22,6 @@ Installed AWS CSI Drivers:
 
 - mazonEBSCSIDriverPolicy
 
-- AmazonEC2ContainerRegistryPullOnly
-
 - Custom policy for EFS access.
 
 - Attached the IAM Role to the EC2 instances to allow pods to interact with AWS services securely.
